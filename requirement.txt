@@ -1,0 +1,29 @@
+# Core
+python>=3.10
+
+# Web UI
+gradio>=3.43
+
+# Computer Vision
+opencv-python>=4.8
+
+# AI / Agents
+langchain>=0.1
+langgraph>=0.1
+
+# APIs
+requests>=2.31
+
+# Speech Recognition & TTS
+gTTS>=2.3
+elevenlabs>=0.2.0
+
+# Audio Processing
+pydub>=0.25
+
+# Optional / Utilities
+numpy>=1.24
+Pillow>=10.0
+
+# For Groq API (if they provide a Python SDK)
+groq>=0.1
